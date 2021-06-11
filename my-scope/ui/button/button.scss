@@ -1,0 +1,13 @@
+button {
+  padding: 2px 15px;
+  height: 32px;
+  border-radius: 4px;
+  border: 1px solid transparent;
+  color: #fff;
+  background: #36e;
+  &.secondary {
+    color: #36e;
+    background: #fff;
+    border: 1px solid #ccc;
+  }
+}

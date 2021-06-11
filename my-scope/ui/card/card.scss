@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 6px;
+  .detail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 12px;
+    min-height: 150px;
+  }
+  .footer {
+    border-top: 1px solid #ccc;
+    padding: 6px 12px;
+    text-align: center;
+  }
+}
